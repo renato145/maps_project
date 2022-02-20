@@ -1,0 +1,1 @@
+Old files were by using plain osm2pgsql tool, new files are using pgosm-flex.
