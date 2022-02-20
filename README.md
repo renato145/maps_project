@@ -10,4 +10,4 @@
 - Run osm2pgsql: `./scripts/run_osm2pgsql.sh`
 
 ## Todo
-- Automatically update map data.
+- Automatically update map data (https://osm2pgsql.org/doc/manual.html#getting-and-preparing-osm-data).
